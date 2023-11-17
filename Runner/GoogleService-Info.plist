@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>502194228226-ucd6nsn8rv9cpmgu8jm73q1br0l0ooia.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.502194228226-ucd6nsn8rv9cpmgu8jm73q1br0l0ooia</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBZ2bySy1_ZRadxXWUstRYXVAB3SjA-2hw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>502194228226</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nasib.skillChat</string>
+	<key>PROJECT_ID</key>
+	<string>samin-cee2a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>samin-cee2a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:502194228226:ios:d5d2c3c6f680a21a5f2b1b</string>
+	<key>DATABASE_URL</key>
+	<string>https://samin-cee2a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
